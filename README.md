@@ -2,6 +2,7 @@
 https://github.com/c17hawke/dvc-ML-demo-AIOps
 
 ## wokflow -
+![image](https://user-images.githubusercontent.com/63837999/152177703-886a6a5b-1ab2-4986-aa74-2535376f6bea.png)
 
 
 # STEPS:
